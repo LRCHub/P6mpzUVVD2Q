@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "みかげ日記（feat.初音ミク）",
+  "base_artist": "はるまきごはん",
+  "createdAt": "2026-01-03T12:41:19.814604Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "みかげ日記",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/pl_01_みかげ日記_はるまきごはん.txt"
+    }
+  ]
+}
